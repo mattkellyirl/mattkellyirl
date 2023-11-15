@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and motorsport.
 - 🌱 I’m currently learning Full Stack Development!
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ...
+- 📫 You can reach me via my email address, matthew.kelly@digicom.net.au
 
 <!---
 mattkellyirl/mattkellyirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
