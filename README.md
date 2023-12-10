@@ -8,7 +8,7 @@ I have extensive graphic design and film experience, and am proficient in <b>Aft
 
 From reading this, you have probably realised that I love making things, building things and understanding why and how they work. If you did, I'd love to work with you!
 
-## <div align="center">
+<div align="center">
   <a href="https://github.com/mattkellyirl/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mattkellyirl&show_icons=true&theme=codeSTACKr"/>
   </a>
