@@ -4,7 +4,7 @@ I'm a qualified light vehicle mechanic, having completed my 4 year apprenticeshi
 
 Currently studying full stack development at the University of Adelaide - fluent in <b>HTML5, CSS3</b> and <b>Javascript</b> with skills in other technologies such as <b>Git, jQuery, MySQL</b> and <b>VS Code</b>.
 
-I have extensive graphic design and film experience, and am proficient in After Effects, Premiere Pro, Illustrator, InDesign and Photoshop. 
+I have extensive graphic design and film experience, and am proficient in <b>After Effects, Premiere Pro, Illustrator, InDesign</b> and <b>Photoshop</b>. 
 
 From reading this, you have probably realised that I love making things, building things and understanding why and how they work. If you did, I'd love to work with you!
 
